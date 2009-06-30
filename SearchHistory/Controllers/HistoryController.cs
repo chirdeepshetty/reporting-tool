@@ -51,7 +51,7 @@ namespace SearchHistory.Controllers
             Chart2.BorderlineWidth = 2;
             Chart2.BorderColor = System.Drawing.Color.Black;
             Chart2.BorderlineDashStyle = ChartDashStyle.Solid;
-            Chart2.BorderWidth = 2;yaa
+            Chart2.BorderWidth = 2;
 
             Chart2.Legends.Add("Legend1");
             MemoryStream imageStream = new MemoryStream();

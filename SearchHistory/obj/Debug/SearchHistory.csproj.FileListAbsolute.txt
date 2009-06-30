@@ -3,3 +3,8 @@ C:\Documents and Settings\hirenj\My Documents\Visual Studio 2008\Projects\Search
 C:\Documents and Settings\hirenj\My Documents\Visual Studio 2008\Projects\SearchHistory\SearchHistory\obj\Debug\ResolveAssemblyReference.cache
 C:\Documents and Settings\hirenj\My Documents\Visual Studio 2008\Projects\SearchHistory\SearchHistory\obj\Debug\SearchHistory.dll
 C:\Documents and Settings\hirenj\My Documents\Visual Studio 2008\Projects\SearchHistory\SearchHistory\obj\Debug\SearchHistory.pdb
+D:\TechInd\reporting-tool\SearchHistory\obj\Debug\ResolveAssemblyReference.cache
+D:\TechInd\reporting-tool\SearchHistory\obj\Debug\SearchHistory.dll
+D:\TechInd\reporting-tool\SearchHistory\bin\SearchHistory.dll
+D:\TechInd\reporting-tool\SearchHistory\bin\SearchHistory.pdb
+D:\TechInd\reporting-tool\SearchHistory\obj\Debug\SearchHistory.pdb

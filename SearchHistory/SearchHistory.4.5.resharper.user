@@ -1,0 +1,27 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Controllers/f:HistoryController.cs" caret="2023" fromTop="8" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Controllers/f:HistoryController.cs" caret="12192" fromTop="8" />
+      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Controllers/f:HistoryController.cs" caret="2023" fromTop="8" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerMSTest>
+    <UseTestRunConfigFromMetadataFile>False</UseTestRunConfigFromMetadataFile>
+  </UnitTestRunnerMSTest>
+</Configuration>
