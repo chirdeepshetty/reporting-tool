@@ -8,20 +8,31 @@
 
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
 
-    <form id="form1" runat="server">
+ <form id="form1" runat="server">
+ <h2 class="hisotryHeader">Daily Data History</h2>
+ </br>
+ <asp:GridView ID="GridView1" runat="server" CellPadding="4" 
+     DataSourceID="HistoryRecords" ForeColor="#333333" GridLines="None" 
+     AllowPaging="True" AutoGenerateColumns="False">
+     <RowStyle BackColor="#F7F6F3" ForeColor="#333333" />
+     <Columns>
+         <asp:BoundField DataField="Date" HeaderText="Date" ReadOnly="True" 
+             SortExpression="Date" />
+         <asp:BoundField DataField="NoOfSearches" HeaderText="Searches" 
+             ReadOnly="True" SortExpression="NoOfSearches" />
+     </Columns>
+     <FooterStyle BackColor="#5D7B9D" Font-Bold="True" ForeColor="White" />
+     <PagerStyle BackColor="#284775" ForeColor="White" HorizontalAlign="Center" />
+     <SelectedRowStyle BackColor="#E2DED6" Font-Bold="True" ForeColor="#333333" />
+     <HeaderStyle BackColor="#5D7B9D" Font-Bold="True" ForeColor="White" />
+     <EditRowStyle BackColor="#999999" />
+     <AlternatingRowStyle BackColor="White" ForeColor="#284775" />
+ </asp:GridView>
+ <asp:ObjectDataSource ID="HistoryRecords" runat="server" 
+     SelectMethod="GetDailyHistory" 
+     TypeName="SearchHistory.Models.HistoryService" >
+ </asp:ObjectDataSource>
 
-    <div id = "hourlyReport"><h2>Hourly Report</h2></div>
-    <div id = "hourlyChart">
-    <img src = "/History/GetChart" /> 
-    <%= Html.Encode(ViewData["Hourly"]) %>
-                    </div>
-    
-    <div id = "dailyReport"><h2>Daily Report </h2></div>
-    <div id = "dailyChart"><img src = "/History/GetChart" /> <%= Html.Encode(ViewData["Daily"]) %></div>
-    
-    <div id = "byComputerReport"><h2>By Computer Report</h2></div>
-    <div id = "byComputerChart"><img src = "/History/GetChart" /> <%= Html.Encode(ViewData["ByComputer"]) %></div>
 
-    </form>
-
+ </form>
 </asp:Content>

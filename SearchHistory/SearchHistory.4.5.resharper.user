@@ -12,17 +12,44 @@
   <RecentFiles>
     <RecentFiles>
       <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Infrastructure/f:SearchResult.cs" caret="0" fromTop="0" />
-      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Controllers/f:HistoryController.cs" caret="1764" fromTop="20" />
-      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Models/f:SearchHistory.cs" caret="582" fromTop="13" />
+      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Views/d:History/f:SearchHistory.aspx" caret="580" fromTop="19" />
+      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Controllers/f:HistoryController.cs" caret="2542" fromTop="18" />
+      <File id="DB1F9F28-D835-405A-B263-9E24D4D59FA7/f:TestHistory.cs" caret="1272" fromTop="14" />
+      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Models/f:History.cs" caret="1711" fromTop="8" />
+      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/f:Global.asax.cs" caret="363" fromTop="0" />
+      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/f:Web.config" caret="8736" fromTop="115" />
     </RecentFiles>
     <RecentEdits>
-      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Controllers/f:HistoryController.cs" caret="12192" fromTop="8" />
-      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Controllers/f:HistoryController.cs" caret="2023" fromTop="8" />
-      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Infrastructure/f:SearchResult.cs" caret="0" fromTop="0" />
-      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Models/f:SearchHistory.cs" caret="474" fromTop="12" />
-      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Models/f:SearchHistory.cs" caret="571" fromTop="8" />
-      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Models/f:SearchHistory.cs" caret="719" fromTop="12" />
-      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Models/f:SearchHistory.cs" caret="843" fromTop="19" />
+      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Models/f:History.cs" caret="671" fromTop="23" />
+      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Models/f:History.cs" caret="382" fromTop="2" />
+      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Models/f:History.cs" caret="1152" fromTop="22" />
+      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Models/f:History.cs" caret="1152" fromTop="10" />
+      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Models/f:History.cs" caret="1152" fromTop="11" />
+      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Models/f:History.cs" caret="483" fromTop="2" />
+      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Models/f:History.cs" caret="1152" fromTop="12" />
+      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Controllers/f:HistoryController.cs" caret="363" fromTop="6" />
+      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Controllers/f:HistoryController.cs" caret="694" fromTop="8" />
+      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Controllers/f:HistoryController.cs" caret="2309" fromTop="17" />
+      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Controllers/f:HistoryController.cs" caret="2542" fromTop="45" />
+      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Views/d:History/f:SearchHistory.aspx" caret="580" fromTop="19" />
+      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Models/f:History.cs" caret="1152" fromTop="27" />
+      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Models/f:History.cs" caret="726" fromTop="7" />
+      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Models/f:History.cs" caret="1432" fromTop="38" />
+      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Models/f:History.cs" caret="849" fromTop="9" />
+      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Models/f:History.cs" caret="1326" fromTop="27" />
+      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Models/f:History.cs" caret="1400" fromTop="24" />
+      <File id="DB1F9F28-D835-405A-B263-9E24D4D59FA7/f:TestHistory.cs" caret="241" fromTop="9" />
+      <File id="DB1F9F28-D835-405A-B263-9E24D4D59FA7/f:TestHistory.cs" caret="641" fromTop="20" />
+      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Models/f:History.cs" caret="1061" fromTop="11" />
+      <File id="DB1F9F28-D835-405A-B263-9E24D4D59FA7/f:TestHistory.cs" caret="741" fromTop="4" />
+      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/f:Web.config" caret="2539" fromTop="21" />
+      <File id="DB1F9F28-D835-405A-B263-9E24D4D59FA7/f:TestHistory.cs" caret="1328" fromTop="31" />
+      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Models/f:History.cs" caret="1833" fromTop="22" />
+      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Models/f:History.cs" caret="2723" fromTop="30" />
+      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Models/f:History.cs" caret="1629" fromTop="10" />
+      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Models/f:History.cs" caret="1629" fromTop="9" />
+      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Models/f:History.cs" caret="2816" fromTop="9" />
+      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Models/f:History.cs" caret="2312" fromTop="12" />
     </RecentEdits>
   </RecentFiles>
   <UnitTestRunner>
@@ -33,11 +60,132 @@
   </UnitTestRunnerMSTest>
   <CompletionStatisticsManager>
     <ItemStatistics item="Default">
-      <Item value="DateTime" priority="4" />
+      <Item value="DateTime" priority="25" />
       <Item value="DictionarySectionHandler" priority="0" />
-      <Item value="return" priority="0" />
-      <Item value="new" priority="0" />
+      <Item value="return" priority="2" />
+      <Item value="new" priority="15" />
       <Item value="SearchResult" priority="0" />
+      <Item value="public" priority="14" />
+      <Item value="ListViewSelectEventArgs" priority="0" />
+      <Item value="class" priority="4" />
+      <Item value="private" priority="3" />
+      <Item value="int" priority="4" />
+      <Item value="History" priority="4" />
+      <Item value="hourOfDay" priority="0" />
+      <Item value="hour" priority="0" />
+      <Item value="noOfSearches" priority="0" />
+      <Item value="searches" priority="0" />
+      <Item value="List" priority="4" />
+      <Item value="using" priority="1" />
+      <Item value="System" priority="0" />
+      <Item value="Data" priority="0" />
+      <Item value="SQLite" priority="0" />
+      <Item value="SQLiteConnection" priority="1" />
+      <Item value="SQLiteCommand" priority="0" />
+      <Item value="connection" priority="2" />
+      <Item value="command" priority="4" />
+      <Item value="SQLiteDataReader" priority="0" />
+      <Item value="reader" priority="4" />
+      <Item value="while" priority="0" />
+      <Item value="DailyHistory" priority="5" />
+      <Item value="List&lt;DailyHistory&gt;" priority="1" />
+      <Item value="list" priority="4" />
+      <Item value="history" priority="0" />
+      <Item value="Chart2" priority="4" />
+      <Item value="HistoryList" priority="6" />
+      <Item value="NUnit.Framework" priority="0" />
+      <Item value="Framework" priority="0" />
+      <Item value="TestFixture" priority="1" />
+      <Item value="Test" priority="1" />
+      <Item value="void" priority="1" />
+      <Item value="historyList" priority="0" />
+      <Item value="var" priority="0" />
+      <Item value="_startDate" priority="2" />
+      <Item value="startDate" priority="0" />
+      <Item value="_endDate" priority="2" />
+      <Item value="endDate" priority="0" />
+      <Item value="string" priority="0" />
+      <Item value="interface" priority="1" />
+      <Item value="IRepository" priority="5" />
+      <Item value="repository" priority="1" />
+      <Item value="histories" priority="3" />
+      <Item value="MockRepo" priority="0" />
+      <Item value="Assert" priority="1" />
+      <Item value="Has" priority="1" />
+      <Item value="_repository" priority="0" />
+      <Item value="DbRepository" priority="0" />
+      <Item value="repo" priority="0" />
+      <Item value="Configuration" priority="0" />
+      <Item value="CommandType" priority="0" />
+      <Item value="try" priority="0" />
+      <Item value="finally" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Web.Configuration.WebConfigurationManager">
+      <Item value="ConnectionStrings" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Configuration.ConnectionStringSettings">
+      <Item value="ConnectionString" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SQLite.SQLiteConnection">
+      <Item value="CreateCommand" priority="0" />
+      <Item value="Open" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SQLite.SQLiteCommand">
+      <Item value="CommandText" priority="1" />
+      <Item value="ExecuteReader" priority="0" />
+      <Item value="CommandType" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SQLite.SQLiteDataReader">
+      <Item value="NextResult" priority="0" />
+      <Item value="GetValue" priority="0" />
+      <Item value="Close" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add" priority="2" />
+      <Item value="Count" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.DataVisualization.Charting.Chart">
+      <Item value="DataBind" priority="1" />
+      <Item value="DataSource" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SearchHistory.Models.HistoryList">
+      <Item value="GetDailyHistory" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="TryParse" priority="0" />
+      <Item value="Parse" priority="0" />
+      <Item value="Now" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToString" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DateTime">
+      <Item value="Date" priority="0" />
+      <Item value="ToString" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="Parse" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SearchHistory.Models.IRepository">
+      <Item value="GetDailyHistory" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NUnit.Framework.Assert">
+      <Item value="That" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NUnit.Framework.SyntaxHelpers.Has">
+      <Item value="Count" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="Equals" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Configuration.ConfigurationManager">
+      <Item value="ConnectionStrings" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Data.CommandType">
+      <Item value="Text" priority="0" />
     </ItemStatistics>
   </CompletionStatisticsManager>
 </Configuration>

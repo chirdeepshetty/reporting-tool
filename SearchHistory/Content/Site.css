@@ -315,3 +315,10 @@ div#title
     font-weight: bold;
     color: #ff0000;
 }
+
+.hisotryHeader
+{
+	font-weight: bold;
+	color: #0000ff;
+	margin-bottom: 10;
+}
