@@ -17,7 +17,7 @@ namespace SearchHistory.Models
 
                 SQLiteCommand command = connection.CreateCommand();
                 command.CommandText = @"select count(*), QUERYTIME from GROUP_SEARCH_HISTORY                                                          
-                                                            GROUP BY QUERYTIME";
+                                                            GROUP BY date(QUERYTIME)";
 
                 command.CommandType = CommandType.Text;
                     
