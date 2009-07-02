@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="D:\TechInd\reporting-tool\ReportingTests\bin\Debug\ReportingTests.dll" total="1" failures="0" not-run="0" date="2009-07-01" time="23:37:21">
+  <environment nunit-version="2.4.8.0" clr-version="2.0.50727.3082" os-version="Microsoft Windows NT 5.1.2600 Service Pack 3" platform="Win32NT" cwd="D:\TechInd\reporting-tool\ReportingTests\bin\Debug" machine-name="HIREN" user="hirenj" user-domain="CORPORATE" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite name="D:\TechInd\reporting-tool\ReportingTests\bin\Debug\ReportingTests.dll" success="True" time="0.109" asserts="0">
+    <results>
+      <test-suite name="ReportingTests" success="True" time="0.094" asserts="0">
+        <results>
+          <test-suite name="TestDbRetrievals" success="True" time="0.094" asserts="0">
+            <results>
+              <test-case name="ReportingTests.TestDbRetrievals.TestDbRetrieval" executed="True" success="True" time="0.094" asserts="1" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
