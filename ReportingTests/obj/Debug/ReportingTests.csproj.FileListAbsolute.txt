@@ -2,8 +2,8 @@ D:\TechInd\reporting-tool\ReportingTests\bin\Debug\ReportingTests.dll
 D:\TechInd\reporting-tool\ReportingTests\bin\Debug\ReportingTests.pdb
 D:\TechInd\reporting-tool\ReportingTests\bin\Debug\nunit.framework.dll
 D:\TechInd\reporting-tool\ReportingTests\bin\Debug\SearchHistory.dll
-D:\TechInd\reporting-tool\ReportingTests\bin\Debug\SearchHistory.pdb
 D:\TechInd\reporting-tool\ReportingTests\bin\Debug\nunit.framework.xml
+D:\TechInd\reporting-tool\ReportingTests\bin\Debug\SearchHistory.pdb
 D:\TechInd\reporting-tool\ReportingTests\obj\Debug\ResolveAssemblyReference.cache
 D:\TechInd\reporting-tool\ReportingTests\obj\Debug\ReportingTests.dll
 D:\TechInd\reporting-tool\ReportingTests\obj\Debug\ReportingTests.pdb

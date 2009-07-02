@@ -16,6 +16,11 @@ namespace SearchHistory.Models
             return _repository.GetHourlyHistory();
         }
 
+        public List<IpHistory> GetIpHistory()
+        {
+            return _repository.GetIpHistory();
+        }
+
         public HistoryService()
         {
             _repository = new DbRepository();

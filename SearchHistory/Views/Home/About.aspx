@@ -7,6 +7,7 @@
 <asp:Content ID="aboutContent" ContentPlaceHolderID="MainContent" runat="server">
     <h2>About</h2>
     <p>
-        Track your records using Google Web History from TWI.
+        Now you can monitor your google freakness.
+        Track your records using Google Web History created by TWers.
     </p>
 </asp:Content>

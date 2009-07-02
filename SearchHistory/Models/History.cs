@@ -48,6 +48,36 @@ namespace SearchHistory.Models
             _noOfSearches = noOfSearches;
         }
 
+        public int Hour
+        {
+            get { return _hour; }
+        }
 
+        public int NoOfSearches
+        {
+            get { return _noOfSearches; }
+        }
+    }
+
+    public class IpHistory
+    {
+        private String _ip;
+        private int _noOfSearches;
+
+        public IpHistory(String ip, int noOfSearches)
+        {
+            _ip = ip;
+            _noOfSearches = noOfSearches;
+        }
+
+        public String Ip
+        {
+            get { return _ip; }
+        }
+
+        public int NoOfSearches
+        {
+            get { return _noOfSearches; }
+        }
     }
 }

@@ -18,46 +18,48 @@
       <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Views/d:Home/f:Index.aspx" caret="0" fromTop="0" />
       <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Content/f:Site.css" caret="4601" fromTop="7" />
       <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/f:Default.aspx" caret="263" fromTop="3" />
-      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Views/d:History/f:SearchHistory.aspx" caret="1084" fromTop="7" />
-      <File id="DB1F9F28-D835-405A-B263-9E24D4D59FA7/f:TestHistory.cs" caret="1290" fromTop="24" />
-      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Controllers/f:HistoryController.cs" caret="440" fromTop="0" />
-      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Models/f:IRepository.cs" caret="140" fromTop="6" />
+      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Controllers/f:HistoryController.cs" caret="440" fromTop="18" />
+      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Models/f:History.cs" caret="1610" fromTop="21" />
+      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Models/f:IRepository.cs" caret="233" fromTop="8" />
+      <File id="DB1F9F28-D835-405A-B263-9E24D4D59FA7/f:TestHistory.cs" caret="1163" fromTop="15" />
+      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Views/d:Shared/f:Site.Master" caret="0" fromTop="0" />
+      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Views/d:Home/f:About.aspx" caret="384" fromTop="9" />
+      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Models/f:HistoryService.cs" caret="519" fromTop="20" />
+      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Views/d:History/f:SearchHistory.aspx" caret="3601" fromTop="40" />
       <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Controllers/f:HomeController.cs" caret="334" fromTop="13" />
-      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Models/f:HistoryService.cs" caret="606" fromTop="19" />
-      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Models/f:History.cs" caret="736" fromTop="22" />
-      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Models/f:DbRepository.cs" caret="89" fromTop="3" />
+      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Models/f:DbRepository.cs" caret="1384" fromTop="20" />
     </RecentFiles>
     <RecentEdits>
-      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Views/d:History/f:SearchHistory.aspx" caret="1812" fromTop="43" />
-      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Models/f:History.cs" caret="649" fromTop="18" />
-      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Models/f:History.cs" caret="488" fromTop="4" />
-      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Models/f:History.cs" caret="1111" fromTop="15" />
-      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Views/d:History/f:SearchHistory.aspx" caret="0" fromTop="0" />
-      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Views/d:History/f:SearchHistory.aspx" caret="1769" fromTop="30" />
-      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Models/f:History.cs" caret="1113" fromTop="21" />
-      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Models/f:History.cs" caret="1111" fromTop="25" />
-      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Models/f:History.cs" caret="1111" fromTop="14" />
-      <File id="DB1F9F28-D835-405A-B263-9E24D4D59FA7/f:TestHistory.cs" caret="351" fromTop="15" />
-      <File id="DB1F9F28-D835-405A-B263-9E24D4D59FA7/f:TestHistory.cs" caret="971" fromTop="11" />
-      <File id="DB1F9F28-D835-405A-B263-9E24D4D59FA7/f:TestHistory.cs" caret="1348" fromTop="11" />
-      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Content/f:Site.css" caret="5028" fromTop="19" />
-      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Views/d:History/f:SearchHistory.aspx" caret="596" fromTop="8" />
-      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Models/f:History.cs" caret="1113" fromTop="40" />
-      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Models/f:History.cs" caret="939" fromTop="23" />
-      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Models/f:History.cs" caret="1111" fromTop="16" />
-      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Models/f:History.cs" caret="1113" fromTop="25" />
-      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Models/f:History.cs" caret="1113" fromTop="16" />
-      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Models/f:HistoryService.cs" caret="400" fromTop="15" />
-      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Views/d:History/f:SearchHistory.aspx" caret="848" fromTop="15" />
-      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Models/f:History.cs" caret="1113" fromTop="21" />
-      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Models/f:IRepository.cs" caret="209" fromTop="8" />
-      <File id="DB1F9F28-D835-405A-B263-9E24D4D59FA7/f:TestHistory.cs" caret="247" fromTop="10" />
-      <File id="DB1F9F28-D835-405A-B263-9E24D4D59FA7/f:TestHistory.cs" caret="734" fromTop="21" />
-      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Controllers/f:HistoryController.cs" caret="736" fromTop="27" />
-      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Controllers/f:HistoryController.cs" caret="310" fromTop="9" />
-      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Controllers/f:HistoryController.cs" caret="306" fromTop="3" />
-      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Controllers/f:HistoryController.cs" caret="711" fromTop="25" />
-      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Controllers/f:HistoryController.cs" caret="587" fromTop="18" />
+      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Views/d:History/f:SearchHistory.aspx" caret="1953" fromTop="2" />
+      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Views/d:History/f:SearchHistory.aspx" caret="718" fromTop="5" />
+      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Views/d:History/f:SearchHistory.aspx" caret="2248" fromTop="9" />
+      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Models/f:DbRepository.cs" caret="1702" fromTop="6" />
+      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Models/f:History.cs" caret="1037" fromTop="8" />
+      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Models/f:History.cs" caret="1167" fromTop="14" />
+      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Models/f:DbRepository.cs" caret="2198" fromTop="8" />
+      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Models/f:DbRepository.cs" caret="2568" fromTop="18" />
+      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Models/f:History.cs" caret="1483" fromTop="21" />
+      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Models/f:History.cs" caret="1721" fromTop="25" />
+      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Models/f:IRepository.cs" caret="224" fromTop="8" />
+      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Models/f:History.cs" caret="1320" fromTop="8" />
+      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Models/f:History.cs" caret="1565" fromTop="19" />
+      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Models/f:DbRepository.cs" caret="4099" fromTop="24" />
+      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Models/f:DbRepository.cs" caret="3314" fromTop="19" />
+      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Models/f:DbRepository.cs" caret="3810" fromTop="14" />
+      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Models/f:DbRepository.cs" caret="2938" fromTop="9" />
+      <File id="DB1F9F28-D835-405A-B263-9E24D4D59FA7/f:TestHistory.cs" caret="778" fromTop="19" />
+      <File id="DB1F9F28-D835-405A-B263-9E24D4D59FA7/f:TestHistory.cs" caret="1516" fromTop="17" />
+      <File id="DB1F9F28-D835-405A-B263-9E24D4D59FA7/f:TestHistory.cs" caret="1209" fromTop="7" />
+      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Views/d:History/f:SearchHistory.aspx" caret="3191" fromTop="12" />
+      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Views/d:History/f:SearchHistory.aspx" caret="3552" fromTop="17" />
+      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Models/f:HistoryService.cs" caret="519" fromTop="20" />
+      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Views/d:History/f:SearchHistory.aspx" caret="4282" fromTop="30" />
+      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Views/d:Shared/f:Site.Master" caret="0" fromTop="0" />
+      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Models/f:DbRepository.cs" caret="998" fromTop="25" />
+      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Models/f:DbRepository.cs" caret="1510" fromTop="27" />
+      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Views/d:Home/f:About.aspx" caret="384" fromTop="9" />
+      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Models/f:DbRepository.cs" caret="132" fromTop="6" />
+      <File id="365D8188-6377-4562-B9BB-D4550F23F7CD/d:Models/f:DbRepository.cs" caret="1384" fromTop="20" />
     </RecentEdits>
   </RecentFiles>
   <UnitTestRunner>
@@ -68,12 +70,12 @@
   </UnitTestRunnerMSTest>
   <CompletionStatisticsManager>
     <ItemStatistics item="Default">
-      <Item value="DateTime" priority="31" />
+      <Item value="DateTime" priority="35" />
       <Item value="DictionarySectionHandler" priority="0" />
-      <Item value="return" priority="4" />
+      <Item value="return" priority="5" />
       <Item value="new" priority="25" />
       <Item value="SearchResult" priority="0" />
-      <Item value="public" priority="21" />
+      <Item value="public" priority="22" />
       <Item value="ListViewSelectEventArgs" priority="0" />
       <Item value="class" priority="6" />
       <Item value="private" priority="4" />
@@ -83,7 +85,7 @@
       <Item value="hour" priority="0" />
       <Item value="noOfSearches" priority="0" />
       <Item value="searches" priority="0" />
-      <Item value="List" priority="6" />
+      <Item value="List" priority="8" />
       <Item value="using" priority="1" />
       <Item value="System" priority="0" />
       <Item value="Data" priority="0" />
@@ -93,7 +95,7 @@
       <Item value="connection" priority="2" />
       <Item value="command" priority="5" />
       <Item value="SQLiteDataReader" priority="0" />
-      <Item value="reader" priority="6" />
+      <Item value="reader" priority="12" />
       <Item value="while" priority="0" />
       <Item value="DailyHistory" priority="5" />
       <Item value="List&lt;DailyHistory&gt;" priority="1" />
@@ -120,23 +122,30 @@
       <Item value="MockRepo" priority="0" />
       <Item value="Assert" priority="1" />
       <Item value="Has" priority="1" />
-      <Item value="_repository" priority="2" />
+      <Item value="_repository" priority="3" />
       <Item value="DbRepository" priority="2" />
       <Item value="repo" priority="0" />
       <Item value="Configuration" priority="0" />
       <Item value="CommandType" priority="0" />
-      <Item value="try" priority="0" />
+      <Item value="try" priority="1" />
       <Item value="finally" priority="0" />
       <Item value="exception" priority="0" />
       <Item value="Environment" priority="0" />
       <Item value="chart" priority="3" />
       <Item value="foreach" priority="0" />
       <Item value="this" priority="0" />
-      <Item value="HourlyHistory" priority="1" />
+      <Item value="HourlyHistory" priority="5" />
       <Item value="ActionResult" priority="1" />
       <Item value="HistoryService" priority="1" />
       <Item value="service" priority="1" />
       <Item value="XMLOutput" priority="0" />
+      <Item value="String" priority="1" />
+      <Item value="_hour" priority="0" />
+      <Item value="IPHistory" priority="0" />
+      <Item value="IpHistory" priority="3" />
+      <Item value="GetIpHistory" priority="0" />
+      <Item value="catch" priority="0" />
+      <Item value="Exception" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@System.Web.Configuration.WebConfigurationManager">
       <Item value="ConnectionStrings" priority="0" />
@@ -156,9 +165,11 @@
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Data.SQLite.SQLiteDataReader">
       <Item value="NextResult" priority="1" />
-      <Item value="GetValue" priority="2" />
+      <Item value="GetValue" priority="3" />
       <Item value="Close" priority="0" />
       <Item value="Read" priority="0" />
+      <Item value="GetDateTime" priority="2" />
+      <Item value="GetInt32" priority="1" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
       <Item value="Add" priority="2" />
@@ -177,11 +188,12 @@
       <Item value="Now" priority="3" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Object">
-      <Item value="ToString" priority="1" />
+      <Item value="ToString" priority="2" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.DateTime">
       <Item value="Date" priority="1" />
       <Item value="ToString" priority="1" />
+      <Item value="Hour" priority="1" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@System.Int32">
       <Item value="Parse" priority="0" />
@@ -192,6 +204,7 @@
     <ItemStatistics item="Qualified:SearchHistory.Models.IRepository">
       <Item value="GetDailyHistory" priority="1" />
       <Item value="GetHourlyHistory" priority="0" />
+      <Item value="GetIpHistory" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@NUnit.Framework.Assert">
       <Item value="That" priority="1" />

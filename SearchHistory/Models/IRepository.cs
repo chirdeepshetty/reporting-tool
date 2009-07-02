@@ -6,5 +6,6 @@ namespace SearchHistory.Models
     {
         List<DailyHistory> GetDailyHistory();
         List<HourlyHistory> GetHourlyHistory();
+        List<IpHistory> GetIpHistory();
     }
 }

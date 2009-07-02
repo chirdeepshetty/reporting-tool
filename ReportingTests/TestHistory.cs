@@ -26,6 +26,11 @@ namespace ReportingTests
             throw new NotImplementedException();
         }
 
+        public List<IpHistory> GetIpHistory()
+        {
+            throw new NotImplementedException();
+        }
+
         #endregion
     }
 
@@ -37,7 +42,7 @@ namespace ReportingTests
         {
             HistoryService historyList = new HistoryService();
             var list = historyList.GetDailyHistory();
-            Assert.That(list.Count.Equals(2), "Retrieved 2 items");
+            Assert.That(list.Count.Equals(4), "Retrieved 4 items");
 
         }
     }
@@ -50,7 +55,7 @@ namespace ReportingTests
         {
             IRepository repo = new DbRepository();
             var list = repo.GetDailyHistory();
-            Assert.That(list.Count.Equals(2));
+            Assert.That(list.Count.Equals(4));
 
         }
     }
