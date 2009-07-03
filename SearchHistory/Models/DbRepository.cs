@@ -2,16 +2,60 @@ using System;
 using System.Collections.Generic;
 using System.Data;
 using System.Data.SQLite;
+using System.Threading;
 
 namespace SearchHistory.Models
 {
     public class DbRepository : IRepository
     {
+        public delegate object Functor(SQLiteDataReader reader);
+
+        public String DataPath = @"data source=\\techinduction\persistence\groupHistory.db";
+
+        public List<T> GetHistory<T>(Functor aFunctor, String commandText)
+        {
+            List<T> list = new List<T>();
+
+            using (var connection = new SQLiteConnection(@"data source=\\techinduction\persistence\groupHistory.db"))
+            {
+                connection.Open();
+
+                SQLiteCommand command = connection.CreateCommand();
+                command.CommandText = commandText;
+
+                command.CommandType = CommandType.Text;
+
+                SQLiteDataReader reader = command.ExecuteReader();
+
+                while (reader.Read())
+                {
+                    T historyObject = (T) aFunctor(reader);
+                    list.Add(historyObject);
+                }
+                reader.Close();
+                command.Dispose();
+            }
+
+            return list;
+        }
+
+        public List<DailyHistory> GetDailyHistory1()
+        {
+            return GetHistory<DailyHistory>(delegate(SQLiteDataReader aReader)
+                                         {
+                                             DailyHistory history = new DailyHistory(aReader.GetDateTime(1),
+                                                                aReader.GetInt32(0));
+                                             return history;
+                                         }, "");
+
+        }
+
+
         public List<DailyHistory> GetDailyHistory()
         {
             List<DailyHistory> list = new List<DailyHistory>();
 
-            using (var connection = new SQLiteConnection(@"data source=\\sathya\persistence\groupHistory.db"))
+            using (var connection = new SQLiteConnection(DataPath))
             {
                 connection.Open();
 
@@ -48,7 +92,7 @@ namespace SearchHistory.Models
         {
             List<HourlyHistory> list = new List<HourlyHistory>();
 
-            using (var connection = new SQLiteConnection(@"data source=\\sathya\persistence\groupHistory.db"))
+            using (var connection = new SQLiteConnection(DataPath))
             {
                 connection.Open();
 
@@ -80,7 +124,7 @@ namespace SearchHistory.Models
         {
             List<IpHistory> list = new List<IpHistory>();
 
-            using (var connection = new SQLiteConnection(@"data source=\\sathya\persistence\groupHistory.db"))
+            using (var connection = new SQLiteConnection(DataPath))
             {
                 connection.Open();
 

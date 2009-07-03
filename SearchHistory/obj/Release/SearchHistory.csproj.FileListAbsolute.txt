@@ -1,0 +1,5 @@
+D:\TechInd\reporting-tool\SearchHistory\bin\SearchHistory.dll
+D:\TechInd\reporting-tool\SearchHistory\bin\SearchHistory.pdb
+D:\TechInd\reporting-tool\SearchHistory\obj\Release\ResolveAssemblyReference.cache
+D:\TechInd\reporting-tool\SearchHistory\obj\Release\SearchHistory.dll
+D:\TechInd\reporting-tool\SearchHistory\obj\Release\SearchHistory.pdb
